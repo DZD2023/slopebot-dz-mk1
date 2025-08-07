@@ -30,3 +30,6 @@ Nicht-kommerzielle Nutzung, Namensnennung, Weitergabe unter gleichen Bedingungen
 **CERN OHL v2** – Offenlegung, Weitergabe und Modifikation erlaubt mit Dokumentationspflicht
 
 Bitte jeweils die spezifische Lizenzdatei beachten.
+
+
+Copyright (c) 2025 Dirk Zufall
