@@ -1,0 +1,20 @@
+Bauteil,Menge,Beschreibung,Bildreferenz,Bezugsquelle,Einzelpreis (€),Lieferzeit (Tage),Zeitaufwand (Minuten)
+Baseplate V2,1,tragende Struktur,20250804_083242.jpg,Platzhalter-Link,-,-,-
+Akkuhalterung,1,Halterung für Stromversorgung,20250804_083502.jpg,Platzhalter-Link,-,-,-
+Seitenteil (links),1,Seitliche Stütze,20250804_083250.jpg,Platzhalter-Link,-,-,-
+Seitenteil (rechts),1,Seitliche Stütze,20250804_083304.jpg,Platzhalter-Link,-,-,-
+Modulhalterung,1,Befestigung für Sensoren oder Elektronik,20250804_083452.jpg,Platzhalter-Link,-,-,-
+Elektronikfach / Akkufach,1,Innenmodul für Versorgung,20250804_083515.jpg,Platzhalter-Link,-,-,-
+Oberteil / Gehäuseabdeckung,1,"Abdeckung, schützt Komponenten",20250804_083227.jpg,Platzhalter-Link,-,-,-
+Explosionsdarstellung komplett,1,Gesamte Baugruppe zerlegt,"ChatGPT Image 4. Aug. 2025, 09_49_56.png",Platzhalter-Link,-,-,-
+Solarmodul ECO-WORTHY ECOM-120,1,"120 W / 17.2 V / 6.98 A, wetterfest",-,https://www.eco-worthy.com/products/eco-worthy-120w-solar-panel,ca. 110,3–5,20
+Laderegler ECO-WORTHY PWM 12/24 V,1,PWM-Regler mit USB-Anschluss für 12–24 V,-,https://www.eco-worthy.com/products/30a-pwm-solar-charge-controller,ca. 20,3–5,15
+LANGZEIT AGM Batterie 12 V 120 Ah,1,"AGM-Batterie für Solar-/Autonomiebetrieb, wartungsfrei",-,https://www.langzeitbatterien.de,ca. 180,2–4,20
+Antriebseinheit (2x Getriebemotor + Räder),1,Hauptantrieb für Rad-/Raupenmechanik,-,Platzhalter,30–50,-,-
+Gehäuseelemente (3D-Druck oder Platten),1,Basisstruktur / Chassis,-,Platzhalter,0–30,-,-
+Controller (ESP32 / Arduino / Pi),1,Zentrale Steuereinheit,-,Platzhalter,10–40,-,-
+"Sensorik (Ultraschall, Bumper, GPS)",1,"Navigation, Erkennung, Kompass optional",-,Platzhalter,20–60,-,-
+Schnittsystem (z. B. Rasiermotor + Klinge),1,"Raseneinheit, rotierende Messer",-,Platzhalter,20–40,-,-
+Akku + Lader (z. B. 12V Li-Ion 3S1P),1,Energiequelle für mobilen Betrieb,-,Platzhalter,25–50,-,-
+"Elektronik-Komponenten (Driver, MOSFETs)",1,"Spannungsregelung, Treiber, Schutz",-,Platzhalter,10–25,-,-
+"Extras (Schalter, LEDs, Kabel, Schrauben)",1,Kleinteile für Aufbau & Versorgung,-,Platzhalter,10–20,-,-

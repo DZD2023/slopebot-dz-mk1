@@ -1,0 +1,1 @@
+- Was ist das Ziel? Antwort: Siehe ZIEL.md

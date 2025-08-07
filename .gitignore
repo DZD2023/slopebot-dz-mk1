@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.swp
+*.bak
+.DS_Store
+
+# Firmware/Arduino
+*.hex
+*.bin
+
+# 3D-Daten
+*.stl
+*.3mf
+*.step
+
+# Build-Ordner
+build/
+output/
+temp/

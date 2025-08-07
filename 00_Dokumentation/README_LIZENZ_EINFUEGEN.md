@@ -1,0 +1,1 @@
+Bitte diese Lizenzen jeweils in die entsprechenden Projektteile einfügen.

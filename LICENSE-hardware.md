@@ -1,0 +1,1 @@
+CC-BY-SA für Hardware / CAD / STL

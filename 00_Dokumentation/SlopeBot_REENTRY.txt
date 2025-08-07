@@ -1,0 +1,31 @@
+
+SlopeBot DZ MK1 - Projekt Wiedereinstieg
+
+🔹 Projektname: SlopeBot DZ MK1
+🔹 Ziel: Nachhaltiger, modularer Umbau eines Husqvarna Automower 220 AC zu einem modernen, optional erweiterbaren Mähroboter
+
+🔹 Besonderheiten:
+- Nutzung von Altgeräten (Upcycling)
+- 3D-gedruckte Module (optional, snap-fit & schraubbar)
+- CAD-Dokumentation, Explosionszeichnungen, Stücklisten
+- Github- und Printables-Kompatibilität
+- Modulbauweise mit optionaler Elektronik, Solar, Zusatzgeräte
+- Lizenz: CC BY-NC-SA 4.0 (Namensnennung, nicht kommerziell, gleiche Bedingungen)
+
+🔹 Letzter Bearbeitungsstand:
+- Modularer Aufbau in Planung
+- CAD-Dateien im Aufbau, erste Skizzen vorhanden
+- GitHub Repo: https://github.com/DZD2023/SlopeBot-DZ-MK1
+- PDF-Dokumentation wird laufend ergänzt
+- Zusatzmodule (z. B. für Hochgras oder Balkenschneider) in Konzeptphase
+- Displayanpassung, Selbsttest, Community-Mitwirkung vorbereitet
+- Logo, Viewer-QR-Codes, Readme, Hilfe-Tools, Baugruppenübersicht integriert
+
+🔹 Offene Aufgaben:
+- [ ] Weitere Baugruppen dokumentieren
+- [ ] Community-Vorlagen für Displayadapter
+- [ ] Integration der WebApp GUI (Raspberry & Handy)
+- [ ] Stücklisten-Quellen und Bestellhilfe einpflegen
+- [ ] Hilfe zur Fehlerdiagnose verfeinern
+- [ ] GitHub-Projektstruktur aktualisieren (nach Bedarf)
+- [ ] CAD-Vorschau verlinken (Sketchfab/Thangs)

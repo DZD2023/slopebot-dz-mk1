@@ -1,10 +1,10 @@
+# SlopeBot DZ MK1 – Open Source Hangmäher
+
 # SlopeBot DZ MK1
 
-Ein Open-Source-Mähroboter für extreme Hanglagen. Modular, nachhaltig, vollständig dokumentiert.
+Open-Source Rasenmähroboter-Projekt
 
-## Features
+---
 
-- Autonomer Betrieb bis 60° Steigung
-- 3D-druckbares Chassis + CNC-fähige Holzteile
-- Steuerung per ESP32, App & optionaler KI
-- Ladegarage mit Solardach und Reinigungssystem
+# SlopeBot DZ MK1 – REENTRY
+Einführung, Versionierung, Einstieg.

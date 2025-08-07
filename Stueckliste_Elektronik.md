@@ -1,0 +1,3 @@
+- ESP32
+- Breakbeam Sensor
+- MOSFETs

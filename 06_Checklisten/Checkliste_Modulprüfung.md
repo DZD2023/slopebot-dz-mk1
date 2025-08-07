@@ -1,0 +1,3 @@
+- [ ] Akkuhalterung befestigt
+- [ ] Sensorplatinen verdrahtet
+- [ ] Softwareversion aktuell

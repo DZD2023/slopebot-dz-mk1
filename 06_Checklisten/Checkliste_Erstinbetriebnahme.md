@@ -1,0 +1,3 @@
+- Akku einlegen
+- Selbsttest starten
+- WLAN verbinden

@@ -1,0 +1,3 @@
+- 1× Arduino Nano
+- 1× IC-Breakbeam Sensor
+- 1× Relaismodul 5V

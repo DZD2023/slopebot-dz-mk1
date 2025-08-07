@@ -1,0 +1,4 @@
+- 1× ESP32
+- 2× Linearsensor
+- 1× Motor 12V
+- 3D-gedruckte Teile (Baseplate, Akkuhalterung)
