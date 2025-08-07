@@ -1,1 +1,0 @@
-CC-BY-SA 4.0 + Erweiterung: Keine kommerzielle Nutzung ohne Genehmigung. Namensnennung erforderlich.

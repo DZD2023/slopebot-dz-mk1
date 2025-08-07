@@ -1,1 +1,2 @@
-MIT License für Softwarekomponenten
+MIT License
+https://opensource.org/licenses/MIT

@@ -1,1 +1,2 @@
-CC-BY-SA für Hardware / CAD / STL
+CERN Open Hardware License Version 2
+https://ohwr.org/project/cernohl
