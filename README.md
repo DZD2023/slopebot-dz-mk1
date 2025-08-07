@@ -15,6 +15,13 @@ Open-Source Rasenmähroboter-Projekt für extreme Hanglagen. Modular, nachhaltig
 # SlopeBot DZ MK1 – REENTRY
 Einführung, Versionierung, Einstieg.
 
+## Lizenz
+Hauptlizenz: CC BY‑NC‑SA 4.0  
+Software: MIT License  
+Hardware: CERN OHL v2  
+Weitere Informationen siehe im jeweiligen LICENSE-File.
+
+
 # Lizenzübersicht
 
 Dieses Projekt verwendet folgende Lizenzmodelle:
