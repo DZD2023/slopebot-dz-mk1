@@ -4,6 +4,8 @@
 **Letzte Aktualisierung:** 07.08.2025  
 [NEU] Überarbeitete GitHub-optimierte README mit Projektstatus, To-Dos, CAD-Platzhaltern
 
+---
+
 ## 📌 Projektziel & Vision
 Der **SlopeBot DZ MK1** ist ein modularer, nachhaltiger DIY-Mähroboter für Hanglagen,  
 basierend auf einem Husqvarna Automower 220 AC.
@@ -23,14 +25,6 @@ und damit **zukunftssicher** zu machen.
 - Zweisprachige Dokumentation (primär DE, ergänzend EN)  
 - Maße ausschließlich metrisch  
 - Frei verfügbar, **keine kommerzielle Nutzung ohne Genehmigung**
-
----
-
-## 📥 Aktueller Projektstand
-
-Der aktuelle Entwicklungsstand ist als **FINAL_V22 (Pre-Release)** auf GitHub verfügbar:
-
-[➡️ FINAL_V22 Pre-Release herunterladen](https://github.com/DZD2023/SlopeBot-DZ-MK1/releases/tag/v0.0.22)
 
 ---
 
@@ -89,6 +83,20 @@ SlopeBot_DZ_MK1/
 
 ---
 
+## 🏗 Aufbau- & Umbauanleitungen
+
+- **Umbauanleitung Automower 220 AC (DE):** [`Automower220AC_Umbauanleitung_DE.md`](01_Hardware/Explosionszeichnungen/Automower220AC_Umbauanleitung_DE.md)
+- **Disassembly Guide (EN):** [`Automower220AC_DisassemblyGuide_EN.md`](01_Hardware/Explosionszeichnungen/Automower220AC_DisassemblyGuide_EN.md)
+
+---
+
+## 📋 Stücklisten
+
+- **Funktionsstückliste:** [`Stueckliste_SlopeBot_DZ_MK1_FINAL.csv`](00_Dokumentation/Stueckliste_SlopeBot_DZ_MK1_FINAL.csv)
+- **Materialliste:** [`Stueckliste_SlopeBot_DZ_MK1_MATERIAL.csv`](00_Dokumentation/Stueckliste_SlopeBot_DZ_MK1_MATERIAL.csv)
+
+---
+
 ## 📜 Lizenz
 
 - **Hardware:** [Creative Commons BY-NC-SA 4.0](LICENSE_HARDWARE)  
@@ -99,6 +107,8 @@ SlopeBot_DZ_MK1/
 ---
 
 ## 📌 Offene Aufgaben / To-Dos
+[GEÄNDERT] Konsolidierte Liste aus `REENTRY_FINAL` & `REENTRY_DZSCHLAU`:
+
 - CAD-Export aller finalen Module (STEP/STL) aus Fusion 360
 - Implementierung der WebApp / Mobile App
 - Erstellung vollständiger SlopeBot-Aufbauanleitung (DE/EN)
@@ -107,3 +117,10 @@ SlopeBot_DZ_MK1/
 - Pflege CHANGELOG aller Versionen
 - Veröffentlichung auf GitHub nach Abnahme
 - Optional: Printables-Upload vorbereiten
+
+---
+
+## 🔗 Quellen & Links
+- **GitHub-Repository:** [https://github.com/DZD2023/SlopeBot-DZ-MK1](https://github.com/DZD2023/SlopeBot-DZ-MK1)
+- **Lizenzinfos:** [`LICENSE_HARDWARE`](LICENSE_HARDWARE) | [`LICENSE_SOFTWARE`](LICENSE_SOFTWARE)
+- **CAD-Viewer:** [Sketchfab-Platzhalter] | [Thangs-Platzhalter]
