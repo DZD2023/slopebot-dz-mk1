@@ -4,6 +4,17 @@
 **Letzte Aktualisierung:** 07.08.2025  
 [NEU] Überarbeitete GitHub-optimierte README mit Projektstatus, To-Dos, CAD-Platzhaltern
 
+<<<<<<< HEAD
+=======
+## 📥 Aktueller Projektstand
+
+Der aktuelle Entwicklungsstand ist als **FINAL_V22 (Pre-Release)** auf GitHub verfügbar:
+
+[➡️ FINAL_V22 Pre-Release herunterladen](https://github.com/DZD2023/SlopeBot-DZ-MK1/releases/tag/v0.0.22)
+
+---
+
+>>>>>>> f854114a2c2cc3c657c2ec5fc370139ea50e7db4
 ## 📌 Projektziel & Vision
 Der **SlopeBot DZ MK1** ist ein modularer, nachhaltiger DIY-Mähroboter für Hanglagen,  
 basierend auf einem Husqvarna Automower 220 AC.
