@@ -91,7 +91,7 @@ SlopeBot_DZ_MK1/
 
 ## 📜 Lizenz
 
-- **Hardware:** [Creative Commons BY-NC-SA 4.0](LICENSE_HARDWARE)  
+- **Hardware:** [Creative Commons BY-NC-SA 4.0](LICENSE-hardware.md)
   *(Namensnennung – Nicht kommerziell – Weitergabe unter gleichen Bedingungen)*
 - **Software:** [MIT License](LICENSE_SOFTWARE)  
   *(Freie Nutzung, inklusive kommerziell, mit Haftungsausschluss)*
